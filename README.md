@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Setting Up Internationalization for Server Components in Next.js 13 App Router (URL Localization Included)
+
+TODO:
+
+- Sometimes when change language, pathname not updating name to current selected language
 
 ## Getting Started
 
